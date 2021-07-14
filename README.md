@@ -1,7 +1,7 @@
 # Multivariate Data Driven Prediction of COVID-19 Dynamics: Towards New Results with Temperature, Humidity and Air Quality Data
 ## Code and data repository
 
-The main code is on final_file_forecast_SPSP.ipynb. The data used to train the models is on 
+The main code is on ![alt text](final_file_forecast_SPSP.ipynb). The data used to train the models is ![alt text](file df_spsp_pred.csv).
 
 ![alt text](forecasted_curve.png)
 
@@ -16,4 +16,4 @@ The main code is on final_file_forecast_SPSP.ipynb. The data used to train the m
 
 ## Acknowledgments
 
-* CAPES "Telemedicinas e Análise de Dados Médicos"
+* CAPES Edital 12/2020 - Telemedicinas e Análise de Dados Médicos
