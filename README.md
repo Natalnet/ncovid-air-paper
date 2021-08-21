@@ -1,8 +1,8 @@
 # Multivariate Data Driven Prediction of COVID-19 Dynamics
 > Multivariate Data Driven Prediction of COVID-19 Dynamics: Towards New Results with Temperature, Humidity and Air Quality Data
 
-* [IEEExplore](https://ieeexplore.ieee.org/document/9145427): Paper IEEExplore link.
-* At *2020 International Conference on Systems, Signals and Image Processing (IWSSIP)*
+* Paper link *in construction*
+* Journal link *in construction*
 
 
 ## Project Language
@@ -35,15 +35,8 @@ This work had many contributions and many authors.
 
 If you are interested in using this code in your research, we would like to receive a quote from the original paper:
 
-    @INPROCEEDINGS{Aragao2020,
-          author={Aragão, Dunfrey and Nascimento, Tiago and Mondini, Adriano},
-          booktitle={2020 International Conference on Systems, Signals and Image Processing (IWSSIP)}, 
-          title={SpaceYNet: A Novel Approach to Pose and Depth-Scene Regression Simultaneously}, 
-          year={2020},
-          volume={},
-          number={},
-          pages={217-222},
-          doi={10.1109/IWSSIP48289.2020.9145427}}
+* Bib Citation *in construction*
+
 
 ## Acknowledgments
 
