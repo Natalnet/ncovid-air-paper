@@ -9,8 +9,8 @@ The main code is on [final_file_forecast_SPSP.ipynb](final_file_forecast_SPSP.ip
 
 ### Authors
 
-* Dunfrey P. Aragão (UFRN University, Natal, Brazil)
 * Davi H. dos Santos (UFRN University, Natal, Brazil)
+* Dunfrey P. Aragão (UFRN University, Natal, Brazil)
 * Andouglas G. da Silva Junior (IFRN Institute, Natal, Brazil)
 * Igor G. Pereira (UFRN University, Natal, Brazil)
 * Luiz M. G. Gonçalves (UFRN University, Natal, Brazil)
